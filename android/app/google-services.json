@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1075978733645",
+    "project_id": "memosnap-5050e",
+    "storage_bucket": "memosnap-5050e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075978733645:android:3bd671316099a07623f404",
+        "android_client_info": {
+          "package_name": "com.example.aimemosnap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp_3RH3S4ujqexSQt-Dtdtl5eA_9yTPf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
