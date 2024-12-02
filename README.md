@@ -83,18 +83,6 @@ lib/
    - 데이터 암호화
    - 안전한 API 통신
 
-## 설치 방법
-```bash
-# 저장소 클론
-git clone https://github.com/yourusername/memosnap.git
-
-# 종속성 설치
-flutter pub get
-
-# 실행
-flutter run
-```
-
 ## 환경 설정
 1. Firebase 프로젝트 설정
 2. Google Cloud Platform API 키 설정
@@ -103,6 +91,3 @@ flutter run
 ## 향후 계획
 - [ ] 테마 커스터마이징
 - [ ] 공유 기능 강화
-
-## 팀 소개
-// 개인 Flutter project
